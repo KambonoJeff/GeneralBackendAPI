@@ -10,6 +10,14 @@
 <body>
 <div class="container">
     <div class="box">
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
         <div class="box">
             <h1 align="center"> GENERAL_BACKEND_API by KAMBONO JEFF</h1>
             <P align="center"> The Database Structure shall be laid down here</P>
